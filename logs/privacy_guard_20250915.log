@@ -1,0 +1,99 @@
+2025-09-15 08:02:54,455 - INFO - Privacy Guard initialized
+2025-09-15 08:03:01,630 - INFO - Camera 0 initialized successfully
+2025-09-15 08:03:01,630 - INFO - Privacy Guard monitoring started
+2025-09-15 08:03:02,102 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-15 08:03:02,102 - INFO - Snapshot saved: snapshots/breach_20250915_080302.jpg
+2025-09-15 08:03:02,199 - INFO - Minimized windows: 10 windows
+2025-09-15 08:03:07,192 - INFO - Privacy Guard stopped. Uptime: 0:00:12.736859, Detections: 1
+2025-09-15 08:03:57,579 - INFO - Privacy Guard initialized
+2025-09-15 08:04:04,801 - INFO - Camera 0 initialized successfully
+2025-09-15 08:04:04,801 - INFO - Privacy Guard monitoring started
+2025-09-15 08:04:05,290 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-15 08:04:05,290 - INFO - Snapshot saved: snapshots/breach_20250915_080405.jpg
+2025-09-15 08:04:05,386 - INFO - Minimized windows: 10 windows
+2025-09-15 08:04:11,326 - WARNING - Privacy breach detected! (Count: 2)
+2025-09-15 08:04:11,326 - INFO - Snapshot saved: snapshots/breach_20250915_080411.jpg
+2025-09-15 08:04:11,456 - INFO - Minimized windows: 10 windows
+2025-09-15 08:04:16,353 - WARNING - Privacy breach detected! (Count: 3)
+2025-09-15 08:04:16,357 - INFO - Snapshot saved: snapshots/breach_20250915_080416.jpg
+2025-09-15 08:04:16,392 - INFO - Minimized windows: 10 windows
+2025-09-15 08:04:21,375 - WARNING - Privacy breach detected! (Count: 4)
+2025-09-15 08:04:21,389 - INFO - Snapshot saved: snapshots/breach_20250915_080421.jpg
+2025-09-15 08:04:21,430 - INFO - Minimized windows: 10 windows
+2025-09-15 08:04:26,932 - WARNING - Privacy breach detected! (Count: 5)
+2025-09-15 08:04:26,943 - INFO - Snapshot saved: snapshots/breach_20250915_080426.jpg
+2025-09-15 08:04:26,964 - INFO - Minimized windows: 10 windows
+2025-09-15 08:04:29,900 - INFO - Privacy Guard stopped. Uptime: 0:00:32.321120, Detections: 5
+2025-09-15 08:09:23,576 - INFO - Privacy Guard initialized
+2025-09-15 08:09:30,825 - INFO - Camera 0 initialized successfully
+2025-09-15 08:09:30,825 - INFO - Privacy Guard monitoring started
+2025-09-15 08:09:31,286 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-15 08:09:31,286 - INFO - Snapshot saved: snapshots/breach_20250915_080931.jpg
+2025-09-15 08:09:31,461 - INFO - Minimized windows: 11 windows
+2025-09-15 08:09:36,323 - WARNING - Privacy breach detected! (Count: 2)
+2025-09-15 08:09:36,335 - INFO - Snapshot saved: snapshots/breach_20250915_080936.jpg
+2025-09-15 08:09:36,364 - INFO - Minimized windows: 11 windows
+2025-09-15 08:09:41,459 - WARNING - Privacy breach detected! (Count: 3)
+2025-09-15 08:09:41,459 - INFO - Snapshot saved: snapshots/breach_20250915_080941.jpg
+2025-09-15 08:09:41,553 - INFO - Minimized windows: 11 windows
+2025-09-15 08:09:46,758 - WARNING - Privacy breach detected! (Count: 4)
+2025-09-15 08:09:46,762 - INFO - Snapshot saved: snapshots/breach_20250915_080946.jpg
+2025-09-15 08:09:46,904 - INFO - Minimized windows: 11 windows
+2025-09-15 08:09:51,767 - WARNING - Privacy breach detected! (Count: 5)
+2025-09-15 08:09:51,781 - INFO - Snapshot saved: snapshots/breach_20250915_080951.jpg
+2025-09-15 08:09:51,846 - INFO - Minimized windows: 11 windows
+2025-09-15 08:10:14,306 - WARNING - Privacy breach detected! (Count: 6)
+2025-09-15 08:10:14,309 - INFO - Snapshot saved: snapshots/breach_20250915_081014.jpg
+2025-09-15 08:10:14,447 - INFO - Minimized windows: 11 windows
+2025-09-15 08:10:19,317 - WARNING - Privacy breach detected! (Count: 7)
+2025-09-15 08:10:19,327 - INFO - Snapshot saved: snapshots/breach_20250915_081019.jpg
+2025-09-15 08:10:19,366 - INFO - Minimized windows: 11 windows
+2025-09-15 08:10:46,055 - WARNING - Privacy breach detected! (Count: 8)
+2025-09-15 08:10:46,060 - INFO - Snapshot saved: snapshots/breach_20250915_081046.jpg
+2025-09-15 08:10:46,200 - INFO - Minimized windows: 11 windows
+2025-09-15 08:10:49,640 - INFO - Privacy Guard stopped. Uptime: 0:01:26.063636, Detections: 8
+2025-09-15 08:13:16,789 - INFO - Privacy Guard initialized
+2025-09-15 08:13:23,963 - INFO - Camera 0 initialized successfully
+2025-09-15 08:13:23,963 - INFO - Privacy Guard monitoring started
+2025-09-15 08:13:24,421 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-15 08:13:24,421 - INFO - Snapshot saved: snapshots/breach_20250915_081324.jpg
+2025-09-15 08:13:24,567 - INFO - Minimized windows: 11 windows
+2025-09-15 08:13:33,815 - INFO - Privacy Guard stopped. Uptime: 0:00:17.026328, Detections: 1
+2025-09-15 08:13:43,398 - INFO - Privacy Guard initialized
+2025-09-15 08:13:50,450 - INFO - Camera 0 initialized successfully
+2025-09-15 08:13:50,450 - INFO - Privacy Guard monitoring started
+2025-09-15 08:13:50,906 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-15 08:13:50,906 - INFO - Snapshot saved: snapshots/breach_20250915_081350.jpg
+2025-09-15 08:13:50,979 - INFO - Minimized windows: 10 windows
+2025-09-15 08:13:59,314 - WARNING - Privacy breach detected! (Count: 2)
+2025-09-15 08:13:59,320 - INFO - Snapshot saved: snapshots/breach_20250915_081359.jpg
+2025-09-15 08:13:59,371 - INFO - Minimized windows: 11 windows
+2025-09-15 08:14:05,942 - WARNING - Privacy breach detected! (Count: 3)
+2025-09-15 08:14:05,949 - INFO - Snapshot saved: snapshots/breach_20250915_081405.jpg
+2025-09-15 08:14:06,004 - INFO - Minimized windows: 11 windows
+2025-09-15 08:14:10,947 - WARNING - Privacy breach detected! (Count: 4)
+2025-09-15 08:14:10,947 - INFO - Snapshot saved: snapshots/breach_20250915_081410.jpg
+2025-09-15 08:14:11,008 - INFO - Minimized windows: 11 windows
+2025-09-15 08:14:17,788 - WARNING - Privacy breach detected! (Count: 5)
+2025-09-15 08:14:17,796 - INFO - Snapshot saved: snapshots/breach_20250915_081417.jpg
+2025-09-15 08:14:17,813 - INFO - Minimized windows: 11 windows
+2025-09-15 08:14:22,846 - WARNING - Privacy breach detected! (Count: 6)
+2025-09-15 08:14:22,849 - INFO - Snapshot saved: snapshots/breach_20250915_081422.jpg
+2025-09-15 08:14:22,887 - INFO - Minimized windows: 11 windows
+2025-09-15 08:14:30,572 - WARNING - Privacy breach detected! (Count: 7)
+2025-09-15 08:14:30,572 - INFO - Snapshot saved: snapshots/breach_20250915_081430.jpg
+2025-09-15 08:14:30,773 - INFO - Minimized windows: 11 windows
+2025-09-15 08:14:33,703 - INFO - Privacy Guard stopped. Uptime: 0:00:50.304744, Detections: 7
+2025-09-15 08:36:40,182 - INFO - Privacy Guard initialized
+2025-09-15 08:36:47,340 - INFO - Camera 0 initialized successfully
+2025-09-15 08:36:47,340 - INFO - Privacy Guard monitoring started
+2025-09-15 08:36:47,796 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-15 08:36:47,796 - INFO - Snapshot saved: snapshots/breach_20250915_083647.jpg
+2025-09-15 08:36:47,918 - INFO - Minimized windows: 10 windows
+2025-09-15 08:36:52,813 - WARNING - Privacy breach detected! (Count: 2)
+2025-09-15 08:36:52,815 - INFO - Snapshot saved: snapshots/breach_20250915_083652.jpg
+2025-09-15 08:36:52,975 - INFO - Minimized windows: 10 windows
+2025-09-15 08:36:59,075 - WARNING - Privacy breach detected! (Count: 3)
+2025-09-15 08:36:59,075 - INFO - Snapshot saved: snapshots/breach_20250915_083659.jpg
+2025-09-15 08:36:59,279 - INFO - Minimized windows: 10 windows
+2025-09-15 08:37:03,256 - INFO - Privacy Guard stopped. Uptime: 0:00:23.073808, Detections: 3

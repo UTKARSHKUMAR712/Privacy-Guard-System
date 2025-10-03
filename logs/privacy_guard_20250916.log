@@ -1,0 +1,130 @@
+2025-09-16 17:28:58,270 - INFO - Privacy Guard initialized
+2025-09-16 17:29:06,477 - INFO - Camera 0 initialized successfully
+2025-09-16 17:29:06,477 - INFO - Privacy Guard monitoring started
+2025-09-16 17:29:06,964 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-16 17:29:06,979 - INFO - Snapshot saved: snapshots/breach_20250916_172906.jpg
+2025-09-16 17:29:07,158 - INFO - Minimized windows: 9 windows
+2025-09-16 17:29:11,421 - INFO - Privacy Guard stopped. Uptime: 0:00:13.151193, Detections: 1
+2025-09-16 17:29:23,742 - INFO - Privacy Guard initialized
+2025-09-16 17:29:31,063 - INFO - Camera 0 initialized successfully
+2025-09-16 17:29:31,063 - INFO - Privacy Guard monitoring started
+2025-09-16 17:29:31,512 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-16 17:29:31,516 - INFO - Snapshot saved: snapshots/breach_20250916_172931.jpg
+2025-09-16 17:29:31,610 - INFO - Minimized windows: 9 windows
+2025-09-16 17:29:35,681 - INFO - Privacy Guard stopped. Uptime: 0:00:11.938395, Detections: 1
+2025-09-16 17:30:46,807 - INFO - Privacy Guard initialized
+2025-09-16 17:30:54,170 - INFO - Camera 0 initialized successfully
+2025-09-16 17:30:54,170 - INFO - Privacy Guard monitoring started
+2025-09-16 17:30:54,596 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-16 17:30:54,596 - INFO - Snapshot saved: snapshots/breach_20250916_173054.jpg
+2025-09-16 17:30:54,690 - INFO - Minimized windows: 8 windows
+2025-09-16 17:30:57,890 - INFO - Privacy Guard stopped. Uptime: 0:00:11.082580, Detections: 1
+2025-09-16 17:31:08,161 - INFO - Privacy Guard initialized
+2025-09-16 17:31:08,279 - INFO - Camera 1 initialized successfully
+2025-09-16 17:31:08,279 - INFO - Privacy Guard monitoring started
+2025-09-16 17:31:08,323 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-16 17:31:08,327 - INFO - Snapshot saved: snapshots/breach_20250916_173108.jpg
+2025-09-16 17:31:08,461 - INFO - Minimized windows: 8 windows
+2025-09-16 17:31:13,404 - WARNING - Privacy breach detected! (Count: 2)
+2025-09-16 17:31:13,408 - INFO - Snapshot saved: snapshots/breach_20250916_173113.jpg
+2025-09-16 17:31:13,555 - INFO - Minimized windows: 9 windows
+2025-09-16 17:31:18,418 - WARNING - Privacy breach detected! (Count: 3)
+2025-09-16 17:31:18,423 - INFO - Snapshot saved: snapshots/breach_20250916_173118.jpg
+2025-09-16 17:31:18,453 - INFO - Minimized windows: 9 windows
+2025-09-16 17:31:23,464 - WARNING - Privacy breach detected! (Count: 4)
+2025-09-16 17:31:23,474 - INFO - Snapshot saved: snapshots/breach_20250916_173123.jpg
+2025-09-16 17:31:23,497 - INFO - Minimized windows: 9 windows
+2025-09-16 17:31:28,503 - WARNING - Privacy breach detected! (Count: 5)
+2025-09-16 17:31:28,514 - INFO - Snapshot saved: snapshots/breach_20250916_173128.jpg
+2025-09-16 17:31:28,532 - INFO - Minimized windows: 9 windows
+2025-09-16 17:31:33,536 - WARNING - Privacy breach detected! (Count: 6)
+2025-09-16 17:31:33,536 - INFO - Snapshot saved: snapshots/breach_20250916_173133.jpg
+2025-09-16 17:31:33,567 - INFO - Minimized windows: 9 windows
+2025-09-16 17:31:38,585 - WARNING - Privacy breach detected! (Count: 7)
+2025-09-16 17:31:38,595 - INFO - Snapshot saved: snapshots/breach_20250916_173138.jpg
+2025-09-16 17:31:38,625 - INFO - Minimized windows: 9 windows
+2025-09-16 17:32:30,646 - INFO - Privacy Guard initialized
+2025-09-16 17:32:30,812 - INFO - Camera 1 initialized successfully
+2025-09-16 17:32:30,812 - INFO - Privacy Guard monitoring started
+2025-09-16 17:32:30,902 - WARNING - Privacy breach detected! (Count: 1)
+2025-09-16 17:32:30,906 - INFO - Snapshot saved: snapshots/breach_20250916_173230.jpg
+2025-09-16 17:32:31,056 - INFO - Minimized windows: 8 windows
+2025-09-16 17:32:36,207 - WARNING - Privacy breach detected! (Count: 2)
+2025-09-16 17:32:36,214 - INFO - Snapshot saved: snapshots/breach_20250916_173236.jpg
+2025-09-16 17:32:36,321 - INFO - Minimized windows: 9 windows
+2025-09-16 17:32:42,793 - WARNING - Privacy breach detected! (Count: 3)
+2025-09-16 17:32:42,793 - INFO - Snapshot saved: snapshots/breach_20250916_173242.jpg
+2025-09-16 17:32:42,928 - INFO - Minimized windows: 9 windows
+2025-09-16 17:32:47,796 - WARNING - Privacy breach detected! (Count: 4)
+2025-09-16 17:32:47,803 - INFO - Snapshot saved: snapshots/breach_20250916_173247.jpg
+2025-09-16 17:32:47,958 - INFO - Minimized windows: 9 windows
+2025-09-16 17:32:58,566 - WARNING - Privacy breach detected! (Count: 5)
+2025-09-16 17:32:58,566 - INFO - Snapshot saved: snapshots/breach_20250916_173258.jpg
+2025-09-16 17:32:58,632 - INFO - Minimized windows: 9 windows
+2025-09-16 17:33:27,601 - WARNING - Privacy breach detected! (Count: 6)
+2025-09-16 17:33:27,608 - INFO - Snapshot saved: snapshots/breach_20250916_173327.jpg
+2025-09-16 17:33:27,699 - INFO - Minimized windows: 9 windows
+2025-09-16 17:33:42,356 - WARNING - Privacy breach detected! (Count: 7)
+2025-09-16 17:33:42,361 - INFO - Snapshot saved: snapshots/breach_20250916_173342.jpg
+2025-09-16 17:33:42,392 - INFO - Minimized windows: 9 windows
+2025-09-16 17:33:47,460 - WARNING - Privacy breach detected! (Count: 8)
+2025-09-16 17:33:47,469 - INFO - Snapshot saved: snapshots/breach_20250916_173347.jpg
+2025-09-16 17:33:47,543 - INFO - Minimized windows: 9 windows
+2025-09-16 17:33:54,450 - WARNING - Privacy breach detected! (Count: 9)
+2025-09-16 17:33:54,460 - INFO - Snapshot saved: snapshots/breach_20250916_173354.jpg
+2025-09-16 17:33:54,487 - INFO - Minimized windows: 9 windows
+2025-09-16 17:34:34,823 - WARNING - Privacy breach detected! (Count: 10)
+2025-09-16 17:34:34,823 - INFO - Snapshot saved: snapshots/breach_20250916_173434.jpg
+2025-09-16 17:34:34,922 - INFO - Minimized windows: 8 windows
+2025-09-16 17:34:51,323 - WARNING - Privacy breach detected! (Count: 11)
+2025-09-16 17:34:51,333 - INFO - Snapshot saved: snapshots/breach_20250916_173451.jpg
+2025-09-16 17:34:51,420 - INFO - Minimized windows: 9 windows
+2025-09-16 17:35:01,675 - WARNING - Privacy breach detected! (Count: 12)
+2025-09-16 17:35:01,681 - INFO - Snapshot saved: snapshots/breach_20250916_173501.jpg
+2025-09-16 17:35:01,755 - INFO - Minimized windows: 9 windows
+2025-09-16 17:35:27,147 - WARNING - Privacy breach detected! (Count: 13)
+2025-09-16 17:35:27,154 - INFO - Snapshot saved: snapshots/breach_20250916_173527.jpg
+2025-09-16 17:35:27,209 - INFO - Minimized windows: 9 windows
+2025-09-16 17:35:32,312 - WARNING - Privacy breach detected! (Count: 14)
+2025-09-16 17:35:32,330 - INFO - Snapshot saved: snapshots/breach_20250916_173532.jpg
+2025-09-16 17:35:32,496 - INFO - Minimized windows: 10 windows
+2025-09-16 17:35:45,317 - WARNING - Privacy breach detected! (Count: 15)
+2025-09-16 17:35:45,328 - INFO - Snapshot saved: snapshots/breach_20250916_173545.jpg
+2025-09-16 17:35:45,393 - INFO - Minimized windows: 9 windows
+2025-09-16 17:35:50,320 - WARNING - Privacy breach detected! (Count: 16)
+2025-09-16 17:35:50,329 - INFO - Snapshot saved: snapshots/breach_20250916_173550.jpg
+2025-09-16 17:35:50,379 - INFO - Minimized windows: 9 windows
+2025-09-16 17:35:56,106 - WARNING - Privacy breach detected! (Count: 17)
+2025-09-16 17:35:56,116 - INFO - Snapshot saved: snapshots/breach_20250916_173556.jpg
+2025-09-16 17:35:56,166 - INFO - Minimized windows: 9 windows
+2025-09-16 17:36:01,122 - WARNING - Privacy breach detected! (Count: 18)
+2025-09-16 17:36:01,134 - INFO - Snapshot saved: snapshots/breach_20250916_173601.jpg
+2025-09-16 17:36:01,232 - INFO - Minimized windows: 9 windows
+2025-09-16 17:36:06,167 - WARNING - Privacy breach detected! (Count: 19)
+2025-09-16 17:36:06,173 - INFO - Snapshot saved: snapshots/breach_20250916_173606.jpg
+2025-09-16 17:36:06,214 - INFO - Minimized windows: 9 windows
+2025-09-16 17:36:11,188 - WARNING - Privacy breach detected! (Count: 20)
+2025-09-16 17:36:11,197 - INFO - Snapshot saved: snapshots/breach_20250916_173611.jpg
+2025-09-16 17:36:11,251 - INFO - Minimized windows: 9 windows
+2025-09-16 17:36:22,836 - WARNING - Privacy breach detected! (Count: 21)
+2025-09-16 17:36:22,844 - INFO - Snapshot saved: snapshots/breach_20250916_173622.jpg
+2025-09-16 17:36:22,911 - INFO - Minimized windows: 9 windows
+2025-09-16 17:36:27,996 - WARNING - Privacy breach detected! (Count: 22)
+2025-09-16 17:36:28,008 - INFO - Snapshot saved: snapshots/breach_20250916_173627.jpg
+2025-09-16 17:36:28,054 - INFO - Minimized windows: 9 windows
+2025-09-16 17:36:34,535 - WARNING - Privacy breach detected! (Count: 23)
+2025-09-16 17:36:34,541 - INFO - Snapshot saved: snapshots/breach_20250916_173634.jpg
+2025-09-16 17:36:34,582 - INFO - Minimized windows: 9 windows
+2025-09-16 17:36:39,548 - WARNING - Privacy breach detected! (Count: 24)
+2025-09-16 17:36:39,554 - INFO - Snapshot saved: snapshots/breach_20250916_173639.jpg
+2025-09-16 17:36:39,614 - INFO - Minimized windows: 9 windows
+2025-09-16 17:37:10,664 - WARNING - Privacy breach detected! (Count: 25)
+2025-09-16 17:37:10,672 - INFO - Snapshot saved: snapshots/breach_20250916_173710.jpg
+2025-09-16 17:37:10,709 - INFO - Minimized windows: 8 windows
+2025-09-16 17:37:15,837 - WARNING - Privacy breach detected! (Count: 26)
+2025-09-16 17:37:15,837 - INFO - Snapshot saved: snapshots/breach_20250916_173715.jpg
+2025-09-16 17:37:15,866 - INFO - Minimized windows: 8 windows
+2025-09-16 17:37:21,478 - WARNING - Privacy breach detected! (Count: 27)
+2025-09-16 17:37:21,478 - INFO - Snapshot saved: snapshots/breach_20250916_173721.jpg
+2025-09-16 17:37:21,502 - INFO - Minimized windows: 8 windows
+2025-09-16 17:37:25,483 - INFO - Privacy Guard stopped. Uptime: 0:04:54.837260, Detections: 27
