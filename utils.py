@@ -143,7 +143,7 @@ def launch_or_activate_app(app_name=None):
     """
     Directly launches comet.exe from absolute path. (No PATH tricks, works always).
     """
-    comet_path = r"C:\Users\globa\AppData\Local\Perplexity\Comet\Application\comet.exe"
+    comet_path = r"C:\Users\globa\AppData\Local\Perplexity\Comet\Application\comet.exe"   
     try:
         # Preferably bring to front if already running
         for proc in psutil.process_iter(['pid', 'name']):

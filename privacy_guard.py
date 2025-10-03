@@ -102,7 +102,7 @@ class PrivacyGuard:
                 self.logger.info(f"Closed applications: {', '.join(closed_apps)}")
             if minimized:
                 self.logger.info(f"Minimized windows: {len(minimized)} windows")
-            # Open or focus comet browser
+            # Open or focus any app or browser
             launch_or_activate_app("comet.exe")
         except Exception as e:
             self.logger.error(f"Error closing/minimizing or launching comet: {e}")
