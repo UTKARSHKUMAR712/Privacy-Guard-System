@@ -21,3 +21,8 @@ Settings are stored in `config/settings.json`:
 ## Usage
 
 ### Command Line Options
+
+  python privacy_guard.py                    # Run with default settings
+  python privacy_guard.py --camera 1         # Use specific camera
+  python privacy_guard.py --test             # Test cameras
+  python privacy_guard.py --help             # Show this help
