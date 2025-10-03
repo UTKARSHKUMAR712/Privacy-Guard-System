@@ -1,0 +1,23 @@
+
+### Runtime Controls
+- `q` - Quit
+- `c` - Change camera
+- `s` - Adjust sensitivity
+- `t` - Toggle test mode
+- `h` - Hide/Show camera feed
+
+## Configuration
+
+Settings are stored in `config/settings.json`:
+
+
+## Phone Camera Setup (Windows Phone Link)
+
+1. Install Phone Link app on both Windows and Android
+2. Pair your devices
+3. Enable camera sharing in Phone Link settings
+4. Your phone camera will appear as camera index 1 or 2
+
+## Usage
+
+### Command Line Options
